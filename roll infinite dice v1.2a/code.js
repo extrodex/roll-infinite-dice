@@ -8,14 +8,8 @@ added loading screen
 fixed ratios
 improved UI
 end of update log */
-var one = 0;
-var two = 0;
-var three = 0;
-var four = 0;
-var five = 0;
-var six = 0;
-var amt = 0;
-var amt2 = 0;
+var one = 0; var two = 0; var three = 0; var four = 0; var five = 0; var six = 0;
+var amt = 0; var amt2 = 0;
 var rolldice;
 var percent;
 var total =0;
